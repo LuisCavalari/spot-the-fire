@@ -1,0 +1,8 @@
+{
+  "name": "FightFireWithFlop",
+  "version": "1.0.0",
+  "main": "serve.js",
+  "repository": "https://github.com/LuisCavalari/spot-the-fire.git",
+  "author": "LuisCavalari",
+  "license": "MIT"
+}
